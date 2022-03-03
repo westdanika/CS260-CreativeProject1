@@ -1,0 +1,26 @@
+.page-content {
+  font-family: "Voltaire", sans-serif;
+}
+
+.top-picks-title {
+  margin-top: 30px;
+  padding-left: 40px;
+  text-align: left;
+  font-family: "Voltaire", sans-serif;
+}
+
+.review {
+  margin: 20px 40px 20px 40px;
+  border-bottom: solid 2px;
+}
+
+.review > img {
+  height: 150px;
+  max-width: 100%;
+  float: left;
+  margin: 20px;
+}
+
+.review-title > h3 {
+  /* float: left; */
+}

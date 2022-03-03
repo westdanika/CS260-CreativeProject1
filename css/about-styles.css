@@ -1,0 +1,27 @@
+.about-title {
+  margin-top: 30px;
+  padding-left: 40px;
+  text-align: left;
+  font-family: "Voltaire", sans-serif;
+}
+
+.bio {
+  /* margin: 20px; */
+}
+
+/* .bio-image {
+  float: left;
+} */
+
+.bio-image > img {
+  max-width: 100%;
+  height: 400px;
+  float: left;
+  margin: 30px;
+  display: block;
+}
+
+.bio-text {
+  margin: 50px;
+  font-family: "Source Serif 4", sans-serif;
+}

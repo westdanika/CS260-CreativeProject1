@@ -1,0 +1,61 @@
+/* Menu Styles */
+.navbar {
+  font-family: "Voltaire", sans-serif !important;
+  height: 8em;
+}
+
+.navbar-brand > img {
+  max-width: 10em !important;
+  height: auto !important;
+}
+
+.bg-light {
+  background-color: #D9D9D9 !important;
+}
+
+.nav-item {
+  font-size: 1.25em !important;
+}
+
+.navbar-brand {
+  font-size: 1.5em !important;
+}
+
+.btn-outline-success {
+  color: #F76F72 !important;
+  border-color: #F76F72 !important;
+}
+.btn-outline-success:hover {
+  color: #D9D9D9 !important;
+  background-color: #F76F72 !important;
+}
+
+/* Page Body Styles */
+.page-content {
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+/* Footer Styles */
+.footer {
+  background-color: #D9D9D9;
+  height: 10em;
+  font-family: "Voltaire", sans-serif;
+  padding: 2em;
+  display: flex;
+  justify-content: center;
+}
+
+.footer > h5 {
+  text-align: center;
+}
+
+.contact-info > p {
+  float: left;
+  padding: 1em;
+  vertical-align: middle;
+}
+
+.contact-info > p > i {
+  padding-right: 1em;
+}
