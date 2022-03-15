@@ -59,3 +59,23 @@
 .contact-info > p > i {
   padding-right: 1em;
 }
+
+/* JSON Search Data Returned Styles */
+.json-content {
+  text-align: center;
+  font-family: "Voltaire", sans-serif;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+/* 
+.search-header {
+  margin-top: 20px;
+} */
+.json-title {
+  margin-top: 30px;
+  padding-left: 40px;
+}
+
+.json-book-cover > img {
+  margin: 20px;
+}
